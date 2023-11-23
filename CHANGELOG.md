@@ -1,3 +1,10 @@
+# [0.20.0](https://github.com/denouche/goawx/compare/v0.19.0...v0.20.0) (2023-11-23)
+
+
+### Features
+
+* Add job_slice_count to JobTemplate type ([#22](https://github.com/denouche/goawx/issues/22)) ([a411ff2](https://github.com/denouche/goawx/commit/a411ff21bba05bb90fe903ad96fece94e4b624a0))
+
 # [0.19.0](https://github.com/denouche/goawx/compare/v0.18.1...v0.19.0) (2023-11-23)
 
 
