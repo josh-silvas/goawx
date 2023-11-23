@@ -1,3 +1,10 @@
+# [0.19.0](https://github.com/denouche/goawx/compare/v0.18.1...v0.19.0) (2023-11-23)
+
+
+### Features
+
+* Add allow_override to Project type. ([#21](https://github.com/denouche/goawx/issues/21)) ([8cecde5](https://github.com/denouche/goawx/commit/8cecde562304868daaefe1ec2d20a880cfeba943))
+
 ## [0.18.1](https://github.com/denouche/goawx/compare/v0.18.0...v0.18.1) (2023-04-14)
 
 
