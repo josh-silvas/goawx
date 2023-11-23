@@ -375,6 +375,7 @@ type JobTemplate struct {
 	Project               int         `json:"project"`
 	Playbook              string      `json:"playbook"`
 	Forks                 int         `json:"forks"`
+	JobSliceCount         int         `json:"job_slice_count"`
 	Limit                 string      `json:"limit"`
 	Verbosity             int         `json:"verbosity"`
 	ExtraVars             string      `json:"extra_vars"`
