@@ -1,3 +1,10 @@
+## [0.20.1](https://github.com/denouche/goawx/compare/v0.20.0...v0.20.1) (2023-12-10)
+
+
+### Bug Fixes
+
+* **credentials:** wrong API endpoint [#29](https://github.com/denouche/goawx/issues/29) and wrong credential type attribute name ([efb94c6](https://github.com/denouche/goawx/commit/efb94c635bd7e4def4c9ed5fbc8d768282208223))
+
 # [0.20.0](https://github.com/denouche/goawx/compare/v0.19.0...v0.20.0) (2023-11-23)
 
 
