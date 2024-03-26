@@ -289,7 +289,7 @@ type Credential struct {
 	OrganizationID   int                    `json:"organization"`
 	CredentialTypeID int                    `json:"credential_type"`
 	Inputs           map[string]interface{} `json:"inputs"`
-	SummaryFields    map[string]interface{} `json:"summary_fields"`
+	SummaryFields    *Summary               `json:"summary_fields"`
 }
 
 type CredentialType struct {
@@ -307,7 +307,7 @@ type CredentialInputSource struct {
 	TargetCredential int                    `json:"target_credential"`
 	SourceCredential int                    `json:"source_credential"`
 	InputFieldName   string                 `json:"input_field_name"`
-	SummaryFields    map[string]interface{} `json:"summary_fields"`
+	SummaryFields    *Summary               `json:"summary_fields"`
 	Metadata         map[string]interface{} `json:"metadata"`
 }
 
