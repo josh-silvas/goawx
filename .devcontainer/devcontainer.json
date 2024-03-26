@@ -14,7 +14,7 @@
     ],
     "shutdownAction": "stopCompose",
     "postCreateCommand": "chmod -R 700 .git",
-    "workspaceFolder": "/go/src/github.com/denouche/goawx",
+    "workspaceFolder": "/go/src/github.com/josh-silvas/goawx",
     // "overrideCommand": "",
     "extensions": [
         // General backend
